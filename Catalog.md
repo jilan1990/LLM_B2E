@@ -122,3 +122,9 @@
 - **第 18 章：安全护栏与红队测试**（防御 Prompt Injection 注入、训练数据投毒与敏感内容过滤）
 - **第 19 章：从模型到 Agent 智能体**（理解 ReAct 模式、Tool Use 函数调用与多智能体协作框架）
 - claude ai open,harness
+
+---
+
+### 附录
+
+#### 引用
